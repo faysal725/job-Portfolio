@@ -1,0 +1,11 @@
+.menuItem{
+    border-radius: 5px;
+    padding: 10px;
+    font-size: large;
+}
+
+
+.menuItem:hover {
+    background-color: rgba(255, 255, 255, 0.233);
+    color: #ebba34;
+}

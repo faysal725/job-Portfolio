@@ -1,0 +1,10 @@
+.img-mov{
+    width: 100%;
+    max-height: 800px;
+}
+
+.slider-btn:hover {
+    background-color: black;
+    color:white;
+}
+

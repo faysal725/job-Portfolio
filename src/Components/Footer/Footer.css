@@ -1,0 +1,21 @@
+.footerArea{
+    --primary: hsla(43, 92%, 86%, 0.65);
+    --secondary: hsla(44, 100%, 49%, 0.65);
+    color: white;
+}
+
+.overlay{
+    background: linear-gradient(135deg, var(--primary), var(--secondary)),
+            url("../Images/Footer5.jpg") no-repeat center center / cover;
+    min-height: 400px; 
+    /* background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover; */
+}
+
+
+.overlay h1{
+    font-weight: bold;
+}

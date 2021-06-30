@@ -1,0 +1,39 @@
+.shareCard{
+    height: 200px;
+    width: 400px;
+    text-align: center;
+    padding-top: 60px;
+    border: none;
+}
+.shareIcon{
+    height: 40px;
+    margin: 08px;
+}
+
+.contactIcons{
+    text-align: center;
+}
+
+
+.inputText{
+    border-radius: 15px;
+}
+
+.submitButton{
+    text-align: center;
+
+}
+
+.submitButton button{
+
+    height: 50px;
+    color: white;
+    font-size: larger;
+    width: 100%;
+    background-color: #ebba34;
+}
+
+.submitButton button:hover{
+    background-image: linear-gradient(40deg, #ebba34, #c57021ee);
+    color:white
+}

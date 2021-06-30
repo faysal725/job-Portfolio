@@ -1,0 +1,19 @@
+.portfolioImage{
+    height:300px; 
+    width:100%
+}
+
+.portfolioImage:hover{
+    border: 3px solid #ebba34;
+}
+
+.technologyUsed{
+    color: #ebba34;
+    font-weight: 600;
+}
+
+
+.techIcon{
+    height: 50px;
+    padding: 5px;
+}

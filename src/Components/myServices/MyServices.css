@@ -1,0 +1,17 @@
+.serviceCard{
+    border: none;
+    text-align: center;
+    margin:10px;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.serviceCard:hover{
+    border: 2px solid #ebba34;
+}
+
+
+.serviceCard:hover h3{
+    color:#ebba34
+}
+
