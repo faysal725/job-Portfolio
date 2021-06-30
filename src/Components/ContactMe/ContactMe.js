@@ -24,9 +24,9 @@ const ContactMe = () => {
                         <h5 className="text-muted"><b>Email Me</b></h5>
                     <a href="https://facebook.com/faysal725ahmed"><img className="shareIcon" src={facebookIcon} alt="" /></a>
                     <img className="shareIcon" src={gmailIcon} alt="" />
-                    <img className="shareIcon" src={linkedIn} alt="" />
+                    <a href="https://linkedin.com/in/faysalahmad"><img className="shareIcon" src={linkedIn} alt="" /></a>
                     </div>
-
+                    
                 </Row>
                 <br /><br />
                 <Row>
